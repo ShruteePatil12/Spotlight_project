@@ -1,0 +1,152 @@
+SPOTLIGHT — NOTEBOOK 04 FINAL RESEARCH SUMMARY
+==================================================
+
+Research Objective
+-----------------
+Evaluate whether Spotlight's interest-constrained, creator-aware
+recommendation intervention improves exposure opportunities for
+Emerging creators while maintaining recommendation relevance.
+
+Dataset and Evaluation
+---------------------
+Users evaluated: 1,411
+Recommendations per user: 10
+Total recommendation slots per model: 14,110
+
+Baseline: User-based Collaborative Filtering
+Intervention: Spotlight creator-aware constrained re-ranking
+
+FAIRNESS RESULTS
+---------------
+Emerging Creator Exposure Slots:
+Baseline: 3,678
+Spotlight: 4,297
+Change: +619
+
+Emerging Creator Exposure Share:
+Baseline: 26.07%
+Spotlight: 30.45%
+
+Emerging Creator Coverage:
+Baseline: 51.88%
+Spotlight: 62.77%
+Change: +10.89 percentage points
+
+Emerging Creators with Zero Exposure:
+Baseline: 243
+Spotlight: 188
+Change: -55
+
+Emerging Creator Exposure Gini:
+Baseline: 0.7845
+Spotlight: 0.7117
+
+Established Creator Exposure Gini:
+Baseline: 0.8659
+Spotlight: 0.8706
+
+RANKING QUALITY
+---------------
+Precision@10:
+Baseline: 0.139405
+Spotlight: 0.136003
+Relative change: -2.44%
+
+Recall@10:
+Baseline: 0.037370
+Spotlight: 0.036405
+Relative change: -2.58%
+
+NDCG@10:
+Baseline: 0.139410
+Spotlight: 0.137262
+Relative change: -1.54%
+
+HitRate@10:
+Baseline: 0.696669
+Spotlight: 0.691708
+Relative change: -0.71%
+
+Precision, Recall, and NDCG decreases were statistically significant
+after Holm correction. HitRate change was not statistically significant.
+
+DIVERSITY
+---------
+All five evaluated diversity metrics increased:
+- Unique creators per recommendation list
+- Unique categories per recommendation list
+- Creator diversity
+- Creator pairwise diversity
+- Category pairwise diversity
+
+All five diversity improvements were statistically significant
+after Holm correction.
+
+NOVELTY AND POPULARITY
+------------------------
+Novelty@10:
+Baseline: 13.823319
+Spotlight: 13.982993
+Change: +0.159674
+
+Mean Popularity@10:
+Baseline: 242,817.29
+Spotlight: 228,772.71
+Change: -14,044.58
+
+Median Popularity@10:
+Baseline: 125,207.47
+Spotlight: 113,315.69
+Change: -11,891.78
+
+All three novelty/popularity changes were statistically significant
+after Holm correction.
+
+TRADE-OFFS
+-----------
+Spotlight improved Emerging creator coverage, reduced zero exposure,
+decreased Emerging creator exposure concentration, increased
+recommendation diversity, and increased popularity-based novelty.
+
+These gains were accompanied by small decreases in ranking relevance
+and a slight deterioration in Established creator exposure metrics.
+
+LIMITATIONS
+----------
+1. Emerging creators are defined by the dataset's relative popularity
+   classification, not necessarily by creator age or account creation date.
+
+2. Evaluation is based on offline interaction data and does not establish
+   real-world causal impact.
+
+3. Recommendation relevance decreased slightly under Spotlight.
+
+4. Emerging creator fairness improved, but Established creator
+   distribution was not uniformly improved.
+
+5. Popularity-based novelty is not equivalent to personalized novelty.
+
+6. Statistical corrections were applied within evaluation metric
+   families, not globally across all evaluation families.
+
+7. Results are specific to the evaluated dataset and experimental setup.
+
+FINAL CONCLUSION
+---------------
+Spotlight demonstrated that creator-aware recommendation re-ranking
+can improve Emerging creator exposure distribution, reduce creator
+exposure concentration, improve diversity, and promote less-popular
+content while maintaining relatively similar ranking quality.
+
+However, these improvements involve a measurable relevance trade-off
+and redistribution of exposure from Established creators.
+
+The findings support the potential of interest-constrained creator-aware
+recommendation interventions, rather than demonstrating universal
+superiority over conventional collaborative filtering.
+
+FINAL VALIDATION
+---------------
+All 16 final validation checks passed.
+
+Notebook 04 status: COMPLETED

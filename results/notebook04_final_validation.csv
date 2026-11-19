@@ -1,0 +1,17 @@
+Check,Passed,Details
+Baseline user count,True,"Expected 1411, observed 1411"
+Spotlight user count,True,"Expected 1411, observed 1411"
+Baseline exactly 10 recommendations per user,True,"Min=10, Max=10"
+Spotlight exactly 10 recommendations per user,True,"Min=10, Max=10"
+Baseline has no duplicate user-video pairs,True,Duplicates=0
+Spotlight has no duplicate user-video pairs,True,Duplicates=0
+Same users in both recommendation models,True,"Baseline users=1411, Spotlight users=1411"
+Baseline total recommendation slots,True,"Expected=14110, observed=14110"
+Spotlight total recommendation slots,True,"Expected=14110, observed=14110"
+Precision direction consistent,True,"Baseline=0.139405, Spotlight=0.136003"
+NDCG direction consistent,True,"Baseline=0.13941, Spotlight=0.137262"
+Novelty direction consistent,True,"Baseline=13.823319, Spotlight=13.982993"
+Emerging coverage improved,True,0.5188 → 0.6277
+Emerging zero-exposure creators decreased,True,243 → 188
+Emerging creator Gini decreased,True,0.7845 → 0.7117
+Final result files exist,True,Missing files=[]

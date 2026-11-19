@@ -1,0 +1,12 @@
+Dimension,Observed_Outcome,Quantitative_Change,Interpretation,Outcome_Category
+Recommendation Precision,Decreased,-2.44%,Small relevance cost,Trade-off
+Recommendation Recall,Decreased,-2.58%,Small relevance cost,Trade-off
+Ranking Quality (NDCG),Decreased,-1.54%,Small ranking-quality cost,Trade-off
+User Hit Rate,Slightly decreased,-0.71%,Change not statistically significant,Mixed
+Emerging Creator Coverage,Increased,+10.89 percentage points,More Emerging creators received recommendations,Benefit
+Emerging Creator Zero Exposure,Decreased,-55 creators,Fewer Emerging creators remained completely unexposed,Benefit
+Emerging Creator Exposure Concentration,Decreased,Gini: 0.7845 → 0.7117,Emerging exposure became more evenly distributed,Benefit
+Established Creator Coverage,Decreased,-1.25 percentage points,Established creator reach declined slightly,Cost
+Established Creator Zero Exposure,Increased,+19 creators,More Established creators received no exposure,Cost
+Recommendation Diversity,Increased,All 5 metrics increased,Recommendation lists became more diverse,Benefit
+Popularity-Based Novelty,Increased,+0.159674 Novelty@10,Recommendations shifted toward less popular videos,Benefit
