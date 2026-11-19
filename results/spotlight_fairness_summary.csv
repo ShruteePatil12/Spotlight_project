@@ -1,0 +1,9 @@
+Metric,Baseline,Spotlight,Desired_Direction,Absolute_Change,Relative_Change_Percent
+Emerging Creator Exposure Slots,3678.0,4297.0,Increase,619.0,16.829798803697663
+Emerging Creator Exposure Share,0.260666,0.3045,Context-dependent,0.043833999999999984,16.816155540039738
+Emerging Creator Coverage,0.518812,0.627723,Increase,0.10891099999999998,20.992382597164287
+Emerging Creators with Zero Exposure,243.0,188.0,Decrease,-55.0,-22.633744855967077
+Emerging Creator Exposure Gini,0.7845,0.7117,Decrease,-0.07279999999999998,-9.279796048438493
+Established Creator Exposure Gini,0.8659,0.8706,Decrease,0.0047000000000000375,0.5427878507910887
+Established Creator Coverage,0.411881,0.39934,Increase,-0.012541000000000024,-3.0448114868129443
+Established Creators with Zero Exposure,891.0,910.0,Decrease,19.0,2.132435465768799
