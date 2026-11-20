@@ -1,0 +1,506 @@
+author_id,creator_group_baseline,exposure_slots_baseline,exposed_users_baseline,unique_videos_baseline,Model_baseline,creator_group_spotlight,exposure_slots_spotlight,exposed_users_spotlight,unique_videos_spotlight,Model_spotlight,slot_change,exposed_users_change,unique_videos_change,outcome
+1853,Emerging,4,4,1,Baseline,Emerging,3,3,1,Spotlight,-1,-1,0,Lost Exposure
+2624,Emerging,21,21,1,Baseline,Emerging,21,21,1,Spotlight,0,0,0,Unchanged
+3542,Emerging,5,5,1,Baseline,Emerging,21,21,2,Spotlight,16,16,1,Benefited
+3159,Emerging,0,0,0,Baseline,Emerging,29,29,1,Spotlight,29,29,1,Benefited
+7007,Emerging,16,16,1,Baseline,Emerging,15,15,1,Spotlight,-1,-1,0,Lost Exposure
+2461,Emerging,28,28,1,Baseline,Emerging,27,27,1,Spotlight,-1,-1,0,Lost Exposure
+2394,Emerging,13,13,1,Baseline,Emerging,12,12,1,Spotlight,-1,-1,0,Lost Exposure
+3255,Emerging,36,36,1,Baseline,Emerging,33,33,1,Spotlight,-3,-3,0,Lost Exposure
+2376,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6896,Emerging,21,21,1,Baseline,Emerging,19,19,1,Spotlight,-2,-2,0,Lost Exposure
+5479,Emerging,1,1,1,Baseline,Emerging,6,6,1,Spotlight,5,5,0,Benefited
+2522,Emerging,36,36,1,Baseline,Emerging,34,34,1,Spotlight,-2,-2,0,Lost Exposure
+4446,Emerging,54,54,1,Baseline,Emerging,49,49,1,Spotlight,-5,-5,0,Lost Exposure
+6886,Emerging,10,10,1,Baseline,Emerging,8,8,1,Spotlight,-2,-2,0,Lost Exposure
+2363,Emerging,1,1,1,Baseline,Emerging,0,0,0,Spotlight,-1,-1,-1,Lost Exposure
+6370,Emerging,20,20,1,Baseline,Emerging,19,19,1,Spotlight,-1,-1,0,Lost Exposure
+7050,Emerging,0,0,0,Baseline,Emerging,3,3,1,Spotlight,3,3,1,Benefited
+3917,Emerging,7,7,2,Baseline,Emerging,6,6,2,Spotlight,-1,-1,0,Lost Exposure
+306,Emerging,15,15,2,Baseline,Emerging,15,15,2,Spotlight,0,0,0,Unchanged
+6171,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+3282,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+6101,Emerging,26,26,1,Baseline,Emerging,23,23,1,Spotlight,-3,-3,0,Lost Exposure
+2613,Emerging,26,25,2,Baseline,Emerging,25,25,2,Spotlight,-1,0,0,Lost Exposure
+1146,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5123,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1189,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3618,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2024,Emerging,10,10,1,Baseline,Emerging,8,8,1,Spotlight,-2,-2,0,Lost Exposure
+2296,Emerging,1,1,1,Baseline,Emerging,9,9,2,Spotlight,8,8,1,Benefited
+2687,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6827,Emerging,4,4,1,Baseline,Emerging,1,1,1,Spotlight,-3,-3,0,Lost Exposure
+4375,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+1980,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5842,Emerging,3,3,1,Baseline,Emerging,3,3,1,Spotlight,0,0,0,Unchanged
+922,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+1517,Emerging,21,21,2,Baseline,Emerging,20,20,2,Spotlight,-1,-1,0,Lost Exposure
+4510,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+1322,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+2062,Emerging,20,20,1,Baseline,Emerging,18,18,1,Spotlight,-2,-2,0,Lost Exposure
+1248,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+753,Emerging,1,1,1,Baseline,Emerging,3,3,1,Spotlight,2,2,0,Benefited
+108,Emerging,11,11,1,Baseline,Emerging,11,11,1,Spotlight,0,0,0,Unchanged
+1086,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+6651,Emerging,3,3,1,Baseline,Emerging,15,15,2,Spotlight,12,12,1,Benefited
+6798,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+880,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+2291,Emerging,87,87,1,Baseline,Emerging,85,85,1,Spotlight,-2,-2,0,Lost Exposure
+2321,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3593,Emerging,1,1,1,Baseline,Emerging,19,19,1,Spotlight,18,18,0,Benefited
+194,Emerging,2,2,1,Baseline,Emerging,5,5,1,Spotlight,3,3,0,Benefited
+7513,Emerging,2,2,1,Baseline,Emerging,1,1,1,Spotlight,-1,-1,0,Lost Exposure
+5865,Emerging,10,10,1,Baseline,Emerging,10,10,1,Spotlight,0,0,0,Unchanged
+4332,Emerging,15,15,1,Baseline,Emerging,13,13,1,Spotlight,-2,-2,0,Lost Exposure
+1377,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5448,Emerging,0,0,0,Baseline,Emerging,5,5,1,Spotlight,5,5,1,Benefited
+3376,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+255,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+101,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+4006,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+4503,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2303,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7118,Emerging,1,1,1,Baseline,Emerging,10,10,1,Spotlight,9,9,0,Benefited
+1273,Emerging,0,0,0,Baseline,Emerging,5,5,1,Spotlight,5,5,1,Benefited
+536,Emerging,0,0,0,Baseline,Emerging,30,30,1,Spotlight,30,30,1,Benefited
+493,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+498,Emerging,8,8,1,Baseline,Emerging,8,8,1,Spotlight,0,0,0,Unchanged
+6139,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5076,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1640,Emerging,6,6,1,Baseline,Emerging,6,6,1,Spotlight,0,0,0,Unchanged
+1081,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5261,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3439,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1175,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4217,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2311,Emerging,0,0,0,Baseline,Emerging,6,6,1,Spotlight,6,6,1,Benefited
+4120,Emerging,1,1,1,Baseline,Emerging,8,8,1,Spotlight,7,7,0,Benefited
+6440,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5017,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7051,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+3979,Emerging,4,4,2,Baseline,Emerging,12,12,2,Spotlight,8,8,0,Benefited
+1247,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+540,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1171,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6564,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+3702,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1181,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+6320,Emerging,1,1,1,Baseline,Emerging,10,10,1,Spotlight,9,9,0,Benefited
+239,Emerging,126,126,1,Baseline,Emerging,124,124,1,Spotlight,-2,-2,0,Lost Exposure
+6723,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5335,Emerging,0,0,0,Baseline,Emerging,7,7,2,Spotlight,7,7,2,Benefited
+4063,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5064,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+5659,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6100,Emerging,51,49,3,Baseline,Emerging,50,49,3,Spotlight,-1,0,0,Lost Exposure
+1850,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+1196,Emerging,2,2,1,Baseline,Emerging,1,1,1,Spotlight,-1,-1,0,Lost Exposure
+279,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3277,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7443,Emerging,37,37,1,Baseline,Emerging,36,36,1,Spotlight,-1,-1,0,Lost Exposure
+1608,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2574,Emerging,1,1,1,Baseline,Emerging,4,4,1,Spotlight,3,3,0,Benefited
+4396,Emerging,10,10,1,Baseline,Emerging,8,8,1,Spotlight,-2,-2,0,Lost Exposure
+3109,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+5185,Emerging,16,16,2,Baseline,Emerging,15,15,2,Spotlight,-1,-1,0,Lost Exposure
+4027,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5723,Emerging,17,17,1,Baseline,Emerging,16,16,1,Spotlight,-1,-1,0,Lost Exposure
+4670,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3182,Emerging,10,10,1,Baseline,Emerging,9,9,1,Spotlight,-1,-1,0,Lost Exposure
+7064,Emerging,13,13,1,Baseline,Emerging,12,12,1,Spotlight,-1,-1,0,Lost Exposure
+131,Emerging,32,32,1,Baseline,Emerging,32,32,1,Spotlight,0,0,0,Unchanged
+2592,Emerging,3,3,1,Baseline,Emerging,18,18,1,Spotlight,15,15,0,Benefited
+5422,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2595,Emerging,30,30,1,Baseline,Emerging,27,27,1,Spotlight,-3,-3,0,Lost Exposure
+1811,Emerging,52,52,1,Baseline,Emerging,52,52,1,Spotlight,0,0,0,Unchanged
+1950,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2935,Emerging,6,6,1,Baseline,Emerging,5,5,1,Spotlight,-1,-1,0,Lost Exposure
+4455,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1496,Emerging,17,17,1,Baseline,Emerging,15,15,1,Spotlight,-2,-2,0,Lost Exposure
+6857,Emerging,4,4,1,Baseline,Emerging,2,2,1,Spotlight,-2,-2,0,Lost Exposure
+3750,Emerging,7,7,1,Baseline,Emerging,7,7,1,Spotlight,0,0,0,Unchanged
+1540,Emerging,30,30,1,Baseline,Emerging,30,30,1,Spotlight,0,0,0,Unchanged
+5398,Emerging,20,20,1,Baseline,Emerging,17,17,1,Spotlight,-3,-3,0,Lost Exposure
+144,Emerging,20,20,1,Baseline,Emerging,29,29,2,Spotlight,9,9,1,Benefited
+2864,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1126,Emerging,1,1,1,Baseline,Emerging,29,29,2,Spotlight,28,28,1,Benefited
+2848,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1128,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+999,Emerging,17,17,1,Baseline,Emerging,17,17,1,Spotlight,0,0,0,Unchanged
+5879,Emerging,9,9,1,Baseline,Emerging,9,9,1,Spotlight,0,0,0,Unchanged
+66,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4717,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+588,Emerging,1,1,1,Baseline,Emerging,0,0,0,Spotlight,-1,-1,-1,Lost Exposure
+3940,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+2877,Emerging,2,2,1,Baseline,Emerging,8,8,2,Spotlight,6,6,1,Benefited
+129,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4016,Emerging,60,60,1,Baseline,Emerging,60,60,1,Spotlight,0,0,0,Unchanged
+7761,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+132,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+7247,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5167,Emerging,91,91,1,Baseline,Emerging,89,89,1,Spotlight,-2,-2,0,Lost Exposure
+2736,Emerging,13,13,1,Baseline,Emerging,12,12,1,Spotlight,-1,-1,0,Lost Exposure
+3263,Emerging,23,23,1,Baseline,Emerging,23,23,1,Spotlight,0,0,0,Unchanged
+2901,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+511,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3138,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+7732,Emerging,0,0,0,Baseline,Emerging,6,6,1,Spotlight,6,6,1,Benefited
+3197,Emerging,12,12,1,Baseline,Emerging,10,10,1,Spotlight,-2,-2,0,Lost Exposure
+4938,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+145,Emerging,13,13,1,Baseline,Emerging,12,12,1,Spotlight,-1,-1,0,Lost Exposure
+7584,Emerging,1,1,1,Baseline,Emerging,5,5,1,Spotlight,4,4,0,Benefited
+2026,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3553,Emerging,0,0,0,Baseline,Emerging,7,7,1,Spotlight,7,7,1,Benefited
+5552,Emerging,19,19,1,Baseline,Emerging,18,18,1,Spotlight,-1,-1,0,Lost Exposure
+5942,Emerging,0,0,0,Baseline,Emerging,4,4,1,Spotlight,4,4,1,Benefited
+49,Emerging,16,16,1,Baseline,Emerging,13,13,1,Spotlight,-3,-3,0,Lost Exposure
+6771,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5370,Emerging,19,19,1,Baseline,Emerging,14,14,1,Spotlight,-5,-5,0,Lost Exposure
+3669,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6216,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5494,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+5740,Emerging,23,23,1,Baseline,Emerging,21,21,1,Spotlight,-2,-2,0,Lost Exposure
+5881,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5177,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2272,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+4857,Emerging,2,2,1,Baseline,Emerging,20,20,1,Spotlight,18,18,0,Benefited
+3837,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+558,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+488,Emerging,41,41,1,Baseline,Emerging,38,38,1,Spotlight,-3,-3,0,Lost Exposure
+852,Emerging,20,20,1,Baseline,Emerging,19,19,1,Spotlight,-1,-1,0,Lost Exposure
+5731,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+1321,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+409,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2469,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+8267,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7791,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4902,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5296,Emerging,0,0,0,Baseline,Emerging,6,6,1,Spotlight,6,6,1,Benefited
+486,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+344,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1969,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1596,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5223,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+1198,Emerging,6,6,1,Baseline,Emerging,8,8,1,Spotlight,2,2,0,Benefited
+462,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+190,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+203,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7564,Emerging,3,3,1,Baseline,Emerging,3,3,1,Spotlight,0,0,0,Unchanged
+760,Emerging,2,2,1,Baseline,Emerging,1,1,1,Spotlight,-1,-1,0,Lost Exposure
+6684,Emerging,5,5,1,Baseline,Emerging,33,33,1,Spotlight,28,28,0,Benefited
+4696,Emerging,0,0,0,Baseline,Emerging,7,7,1,Spotlight,7,7,1,Benefited
+351,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5747,Emerging,1,1,1,Baseline,Emerging,4,4,1,Spotlight,3,3,0,Benefited
+5209,Emerging,21,21,1,Baseline,Emerging,18,18,1,Spotlight,-3,-3,0,Lost Exposure
+570,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7522,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+5722,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3853,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+1401,Emerging,28,28,1,Baseline,Emerging,24,24,1,Spotlight,-4,-4,0,Lost Exposure
+2572,Emerging,9,9,1,Baseline,Emerging,8,8,1,Spotlight,-1,-1,0,Lost Exposure
+309,Emerging,26,26,1,Baseline,Emerging,26,26,1,Spotlight,0,0,0,Unchanged
+830,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2110,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5234,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+5892,Emerging,1,1,1,Baseline,Emerging,2,2,1,Spotlight,1,1,0,Benefited
+6406,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+437,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6445,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+1745,Emerging,0,0,0,Baseline,Emerging,11,11,1,Spotlight,11,11,1,Benefited
+2219,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+660,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3386,Emerging,7,7,1,Baseline,Emerging,7,7,1,Spotlight,0,0,0,Unchanged
+2275,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+175,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+965,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+2226,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+384,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+843,Emerging,1,1,1,Baseline,Emerging,7,7,1,Spotlight,6,6,0,Benefited
+6520,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+4719,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4799,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2447,Emerging,13,13,1,Baseline,Emerging,13,13,1,Spotlight,0,0,0,Unchanged
+465,Emerging,17,17,1,Baseline,Emerging,17,17,1,Spotlight,0,0,0,Unchanged
+1410,Emerging,0,0,0,Baseline,Emerging,7,7,1,Spotlight,7,7,1,Benefited
+4466,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1329,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+4329,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5168,Emerging,3,3,1,Baseline,Emerging,3,3,1,Spotlight,0,0,0,Unchanged
+530,Emerging,0,0,0,Baseline,Emerging,7,7,1,Spotlight,7,7,1,Benefited
+5613,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2623,Emerging,0,0,0,Baseline,Emerging,4,4,1,Spotlight,4,4,1,Benefited
+1718,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5204,Emerging,14,14,1,Baseline,Emerging,13,13,1,Spotlight,-1,-1,0,Lost Exposure
+2076,Emerging,10,10,3,Baseline,Emerging,10,10,3,Spotlight,0,0,0,Unchanged
+116,Emerging,0,0,0,Baseline,Emerging,7,7,1,Spotlight,7,7,1,Benefited
+779,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+2402,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3989,Emerging,9,9,1,Baseline,Emerging,8,8,1,Spotlight,-1,-1,0,Lost Exposure
+3445,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+7925,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+415,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4678,Emerging,14,14,1,Baseline,Emerging,13,13,1,Spotlight,-1,-1,0,Lost Exposure
+3509,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+2569,Emerging,0,0,0,Baseline,Emerging,3,3,1,Spotlight,3,3,1,Benefited
+3404,Emerging,1,1,1,Baseline,Emerging,3,3,1,Spotlight,2,2,0,Benefited
+697,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+3547,Emerging,11,11,1,Baseline,Emerging,11,11,1,Spotlight,0,0,0,Unchanged
+4368,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5070,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+671,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+1676,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5203,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+4641,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2986,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+368,Emerging,7,7,1,Baseline,Emerging,7,7,1,Spotlight,0,0,0,Unchanged
+1232,Emerging,3,3,1,Baseline,Emerging,10,10,1,Spotlight,7,7,0,Benefited
+2674,Emerging,3,3,1,Baseline,Emerging,3,3,1,Spotlight,0,0,0,Unchanged
+421,Emerging,9,9,1,Baseline,Emerging,9,9,1,Spotlight,0,0,0,Unchanged
+5205,Emerging,3,3,1,Baseline,Emerging,9,9,1,Spotlight,6,6,0,Benefited
+4045,Emerging,11,11,1,Baseline,Emerging,10,10,1,Spotlight,-1,-1,0,Lost Exposure
+2766,Emerging,16,16,1,Baseline,Emerging,14,14,1,Spotlight,-2,-2,0,Lost Exposure
+849,Emerging,6,6,1,Baseline,Emerging,16,16,1,Spotlight,10,10,0,Benefited
+6123,Emerging,45,45,2,Baseline,Emerging,44,44,2,Spotlight,-1,-1,0,Lost Exposure
+1756,Emerging,0,0,0,Baseline,Emerging,8,8,1,Spotlight,8,8,1,Benefited
+6378,Emerging,15,15,1,Baseline,Emerging,14,14,1,Spotlight,-1,-1,0,Lost Exposure
+4858,Emerging,8,8,1,Baseline,Emerging,7,7,1,Spotlight,-1,-1,0,Lost Exposure
+2334,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+837,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6048,Emerging,55,55,1,Baseline,Emerging,55,55,1,Spotlight,0,0,0,Unchanged
+3861,Emerging,8,8,1,Baseline,Emerging,8,8,1,Spotlight,0,0,0,Unchanged
+6865,Emerging,1,1,1,Baseline,Emerging,8,8,1,Spotlight,7,7,0,Benefited
+7445,Emerging,2,2,1,Baseline,Emerging,1,1,1,Spotlight,-1,-1,0,Lost Exposure
+1493,Emerging,23,23,1,Baseline,Emerging,23,23,1,Spotlight,0,0,0,Unchanged
+7121,Emerging,65,65,2,Baseline,Emerging,64,64,2,Spotlight,-1,-1,0,Lost Exposure
+6549,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+62,Emerging,11,11,1,Baseline,Emerging,10,10,1,Spotlight,-1,-1,0,Lost Exposure
+188,Emerging,16,16,1,Baseline,Emerging,16,16,1,Spotlight,0,0,0,Unchanged
+1796,Emerging,39,39,1,Baseline,Emerging,39,39,1,Spotlight,0,0,0,Unchanged
+1632,Emerging,10,10,1,Baseline,Emerging,9,9,1,Spotlight,-1,-1,0,Lost Exposure
+4156,Emerging,11,11,3,Baseline,Emerging,10,10,2,Spotlight,-1,-1,-1,Lost Exposure
+3677,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4007,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6958,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+2459,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+83,Emerging,17,17,2,Baseline,Emerging,16,16,2,Spotlight,-1,-1,0,Lost Exposure
+7258,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4730,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+4537,Emerging,64,64,1,Baseline,Emerging,61,61,1,Spotlight,-3,-3,0,Lost Exposure
+3646,Emerging,1,1,1,Baseline,Emerging,6,6,1,Spotlight,5,5,0,Benefited
+5394,Emerging,29,25,2,Baseline,Emerging,28,24,2,Spotlight,-1,-1,0,Lost Exposure
+3145,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5509,Emerging,99,99,1,Baseline,Emerging,98,98,1,Spotlight,-1,-1,0,Lost Exposure
+5937,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6627,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1374,Emerging,2,2,1,Baseline,Emerging,15,15,1,Spotlight,13,13,0,Benefited
+2637,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1445,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+5748,Emerging,1,1,1,Baseline,Emerging,4,4,1,Spotlight,3,3,0,Benefited
+7496,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+15,Emerging,0,0,0,Baseline,Emerging,4,4,1,Spotlight,4,4,1,Benefited
+928,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+6246,Emerging,15,15,1,Baseline,Emerging,13,13,1,Spotlight,-2,-2,0,Lost Exposure
+2717,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+7106,Emerging,8,8,1,Baseline,Emerging,6,6,1,Spotlight,-2,-2,0,Lost Exposure
+2202,Emerging,7,7,1,Baseline,Emerging,7,7,1,Spotlight,0,0,0,Unchanged
+7535,Emerging,32,32,1,Baseline,Emerging,32,32,1,Spotlight,0,0,0,Unchanged
+1533,Emerging,1,1,1,Baseline,Emerging,5,5,1,Spotlight,4,4,0,Benefited
+6180,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+3986,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1002,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6172,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2705,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+74,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7486,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+569,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1169,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3683,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3408,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3524,Emerging,0,0,0,Baseline,Emerging,12,12,1,Spotlight,12,12,1,Benefited
+4550,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1939,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2936,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+817,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+8091,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+4355,Emerging,0,0,0,Baseline,Emerging,27,27,1,Spotlight,27,27,1,Benefited
+7316,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2540,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4419,Emerging,6,6,1,Baseline,Emerging,6,6,1,Spotlight,0,0,0,Unchanged
+1299,Emerging,1,1,1,Baseline,Emerging,4,4,1,Spotlight,3,3,0,Benefited
+2463,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2331,Emerging,18,18,1,Baseline,Emerging,15,15,1,Spotlight,-3,-3,0,Lost Exposure
+1711,Emerging,58,58,1,Baseline,Emerging,55,55,1,Spotlight,-3,-3,0,Lost Exposure
+3286,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2516,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1842,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2620,Emerging,24,24,1,Baseline,Emerging,24,24,1,Spotlight,0,0,0,Unchanged
+4048,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+547,Emerging,0,0,0,Baseline,Emerging,4,4,1,Spotlight,4,4,1,Benefited
+2590,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6851,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5353,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6400,Emerging,26,26,1,Baseline,Emerging,26,26,1,Spotlight,0,0,0,Unchanged
+1482,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6314,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+510,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+822,Emerging,37,37,1,Baseline,Emerging,36,36,1,Spotlight,-1,-1,0,Lost Exposure
+4625,Emerging,19,19,1,Baseline,Emerging,18,18,1,Spotlight,-1,-1,0,Lost Exposure
+480,Emerging,39,39,1,Baseline,Emerging,39,39,1,Spotlight,0,0,0,Unchanged
+505,Emerging,11,11,1,Baseline,Emerging,11,11,1,Spotlight,0,0,0,Unchanged
+611,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+4824,Emerging,10,10,1,Baseline,Emerging,10,10,1,Spotlight,0,0,0,Unchanged
+3426,Emerging,2,2,1,Baseline,Emerging,1,1,1,Spotlight,-1,-1,0,Lost Exposure
+118,Emerging,23,23,1,Baseline,Emerging,21,21,1,Spotlight,-2,-2,0,Lost Exposure
+2742,Emerging,36,36,1,Baseline,Emerging,34,34,1,Spotlight,-2,-2,0,Lost Exposure
+6025,Emerging,15,15,1,Baseline,Emerging,13,13,1,Spotlight,-2,-2,0,Lost Exposure
+244,Emerging,24,24,1,Baseline,Emerging,21,21,1,Spotlight,-3,-3,0,Lost Exposure
+1971,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+943,Emerging,10,10,1,Baseline,Emerging,10,10,1,Spotlight,0,0,0,Unchanged
+1677,Emerging,0,0,0,Baseline,Emerging,22,22,1,Spotlight,22,22,1,Benefited
+544,Emerging,11,11,1,Baseline,Emerging,9,9,1,Spotlight,-2,-2,0,Lost Exposure
+4331,Emerging,3,3,1,Baseline,Emerging,40,40,1,Spotlight,37,37,0,Benefited
+5757,Emerging,22,22,1,Baseline,Emerging,21,21,1,Spotlight,-1,-1,0,Lost Exposure
+2343,Emerging,10,10,1,Baseline,Emerging,9,9,1,Spotlight,-1,-1,0,Lost Exposure
+2725,Emerging,8,8,1,Baseline,Emerging,8,8,1,Spotlight,0,0,0,Unchanged
+26,Emerging,17,17,1,Baseline,Emerging,17,17,1,Spotlight,0,0,0,Unchanged
+4776,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+1265,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1238,Emerging,6,6,1,Baseline,Emerging,6,6,1,Spotlight,0,0,0,Unchanged
+5074,Emerging,20,20,1,Baseline,Emerging,20,20,1,Spotlight,0,0,0,Unchanged
+4164,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2164,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+2370,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6452,Emerging,18,18,1,Baseline,Emerging,16,16,1,Spotlight,-2,-2,0,Lost Exposure
+900,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+658,Emerging,0,0,0,Baseline,Emerging,3,3,1,Spotlight,3,3,1,Benefited
+202,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2853,Emerging,40,40,1,Baseline,Emerging,39,39,1,Spotlight,-1,-1,0,Lost Exposure
+5375,Emerging,53,53,1,Baseline,Emerging,51,51,1,Spotlight,-2,-2,0,Lost Exposure
+20,Emerging,12,12,1,Baseline,Emerging,12,12,1,Spotlight,0,0,0,Unchanged
+403,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+539,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+284,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+481,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1978,Emerging,1,1,1,Baseline,Emerging,0,0,0,Spotlight,-1,-1,-1,Lost Exposure
+79,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+8152,Emerging,8,8,1,Baseline,Emerging,7,7,1,Spotlight,-1,-1,0,Lost Exposure
+7889,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1268,Emerging,37,37,1,Baseline,Emerging,36,36,1,Spotlight,-1,-1,0,Lost Exposure
+7061,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7451,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3006,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2946,Emerging,1,1,1,Baseline,Emerging,21,21,2,Spotlight,20,20,1,Benefited
+6185,Emerging,1,1,1,Baseline,Emerging,5,5,1,Spotlight,4,4,0,Benefited
+799,Emerging,8,8,1,Baseline,Emerging,8,8,1,Spotlight,0,0,0,Unchanged
+4863,Emerging,6,6,1,Baseline,Emerging,6,6,1,Spotlight,0,0,0,Unchanged
+2220,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+593,Emerging,0,0,0,Baseline,Emerging,4,4,1,Spotlight,4,4,1,Benefited
+6776,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2743,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+209,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6344,Emerging,30,30,1,Baseline,Emerging,27,27,1,Spotlight,-3,-3,0,Lost Exposure
+5481,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+237,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+3964,Emerging,0,0,0,Baseline,Emerging,13,13,1,Spotlight,13,13,1,Benefited
+6425,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+2824,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2013,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+659,Emerging,25,25,1,Baseline,Emerging,25,25,1,Spotlight,0,0,0,Unchanged
+5755,Emerging,15,15,1,Baseline,Emerging,15,15,1,Spotlight,0,0,0,Unchanged
+808,Emerging,0,0,0,Baseline,Emerging,6,6,1,Spotlight,6,6,1,Benefited
+474,Emerging,6,6,1,Baseline,Emerging,6,6,1,Spotlight,0,0,0,Unchanged
+608,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+2801,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1912,Emerging,6,6,1,Baseline,Emerging,6,6,1,Spotlight,0,0,0,Unchanged
+3944,Emerging,2,2,1,Baseline,Emerging,6,6,1,Spotlight,4,4,0,Benefited
+1355,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+3102,Emerging,1,1,1,Baseline,Emerging,3,3,1,Spotlight,2,2,0,Benefited
+1075,Emerging,3,3,1,Baseline,Emerging,3,3,1,Spotlight,0,0,0,Unchanged
+5986,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4370,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7682,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+6245,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+887,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7219,Emerging,40,40,1,Baseline,Emerging,38,38,1,Spotlight,-2,-2,0,Lost Exposure
+1831,Emerging,8,8,1,Baseline,Emerging,8,8,1,Spotlight,0,0,0,Unchanged
+720,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+4909,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+936,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2585,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+3562,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+4335,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6107,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+382,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+678,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3423,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+5719,Emerging,2,2,1,Baseline,Emerging,11,11,1,Spotlight,9,9,0,Benefited
+784,Emerging,71,71,1,Baseline,Emerging,70,70,1,Spotlight,-1,-1,0,Lost Exposure
+4750,Emerging,1,1,1,Baseline,Emerging,13,13,1,Spotlight,12,12,0,Benefited
+76,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2954,Emerging,0,0,0,Baseline,Emerging,9,9,1,Spotlight,9,9,1,Benefited
+1375,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7800,Emerging,2,2,1,Baseline,Emerging,2,2,1,Spotlight,0,0,0,Unchanged
+443,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+440,Emerging,1,1,1,Baseline,Emerging,8,8,1,Spotlight,7,7,0,Benefited
+7987,Emerging,15,15,1,Baseline,Emerging,13,13,1,Spotlight,-2,-2,0,Lost Exposure
+5575,Emerging,27,27,1,Baseline,Emerging,24,24,1,Spotlight,-3,-3,0,Lost Exposure
+3745,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3135,Emerging,11,11,1,Baseline,Emerging,9,9,1,Spotlight,-2,-2,0,Lost Exposure
+5595,Emerging,6,6,1,Baseline,Emerging,6,6,1,Spotlight,0,0,0,Unchanged
+991,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+323,Emerging,0,0,0,Baseline,Emerging,6,6,1,Spotlight,6,6,1,Benefited
+174,Emerging,48,48,1,Baseline,Emerging,48,48,1,Spotlight,0,0,0,Unchanged
+2006,Emerging,4,4,1,Baseline,Emerging,4,4,1,Spotlight,0,0,0,Unchanged
+4949,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3994,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2397,Emerging,5,5,1,Baseline,Emerging,23,23,1,Spotlight,18,18,0,Benefited
+195,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+340,Emerging,3,3,1,Baseline,Emerging,13,13,1,Spotlight,10,10,0,Benefited
+1750,Emerging,3,3,1,Baseline,Emerging,7,7,1,Spotlight,4,4,0,Benefited
+269,Emerging,19,19,1,Baseline,Emerging,20,20,1,Spotlight,1,1,0,Benefited
+3097,Emerging,1,1,1,Baseline,Emerging,10,10,1,Spotlight,9,9,0,Benefited
+2733,Emerging,23,23,1,Baseline,Emerging,22,22,1,Spotlight,-1,-1,0,Lost Exposure
+829,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+3630,Emerging,64,64,1,Baseline,Emerging,61,61,1,Spotlight,-3,-3,0,Lost Exposure
+4276,Emerging,19,19,1,Baseline,Emerging,18,18,1,Spotlight,-1,-1,0,Lost Exposure
+431,Emerging,0,0,0,Baseline,Emerging,2,2,1,Spotlight,2,2,1,Benefited
+3436,Emerging,28,28,1,Baseline,Emerging,28,28,1,Spotlight,0,0,0,Unchanged
+4622,Emerging,3,3,1,Baseline,Emerging,20,20,1,Spotlight,17,17,0,Benefited
+949,Emerging,24,24,1,Baseline,Emerging,24,24,1,Spotlight,0,0,0,Unchanged
+3992,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+7739,Emerging,6,6,1,Baseline,Emerging,4,4,1,Spotlight,-2,-2,0,Lost Exposure
+1090,Emerging,15,15,1,Baseline,Emerging,13,13,1,Spotlight,-2,-2,0,Lost Exposure
+629,Emerging,0,0,0,Baseline,Emerging,6,6,1,Spotlight,6,6,1,Benefited
+7323,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1154,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+5833,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+559,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+5514,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1528,Emerging,0,0,0,Baseline,Emerging,3,3,1,Spotlight,3,3,1,Benefited
+316,Emerging,0,0,0,Baseline,Emerging,9,9,1,Spotlight,9,9,1,Benefited
+5605,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2022,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1429,Emerging,5,5,1,Baseline,Emerging,3,3,1,Spotlight,-2,-2,0,Lost Exposure
+992,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+425,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2197,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2464,Emerging,0,0,0,Baseline,Emerging,1,1,1,Spotlight,1,1,1,Benefited
+3711,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2970,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+436,Emerging,5,5,1,Baseline,Emerging,5,5,1,Spotlight,0,0,0,Unchanged
+52,Emerging,1,1,1,Baseline,Emerging,1,1,1,Spotlight,0,0,0,Unchanged
+1645,Emerging,0,0,0,Baseline,Emerging,5,5,1,Spotlight,5,5,1,Benefited
+2752,Emerging,24,24,1,Baseline,Emerging,24,24,1,Spotlight,0,0,0,Unchanged
+2270,Emerging,1,1,1,Baseline,Emerging,3,3,1,Spotlight,2,2,0,Benefited
+397,Emerging,8,8,1,Baseline,Emerging,8,8,1,Spotlight,0,0,0,Unchanged
+5905,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6358,Emerging,14,14,1,Baseline,Emerging,14,14,1,Spotlight,0,0,0,Unchanged
+1880,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+2327,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6778,Emerging,27,27,1,Baseline,Emerging,27,27,1,Spotlight,0,0,0,Unchanged
+862,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+556,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+1183,Emerging,1,1,1,Baseline,Emerging,5,5,1,Spotlight,4,4,0,Benefited
+78,Emerging,0,0,0,Baseline,Emerging,0,0,0,Spotlight,0,0,0,Unchanged
+6156,Emerging,0,0,0,Baseline,Emerging,17,17,1,Spotlight,17,17,1,Benefited
+6850,Emerging,8,8,1,Baseline,Emerging,8,8,1,Spotlight,0,0,0,Unchanged

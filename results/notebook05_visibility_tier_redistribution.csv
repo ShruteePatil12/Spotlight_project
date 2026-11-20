@@ -1,0 +1,5 @@
+baseline_visibility_tier,creator_count,baseline_slots,spotlight_slots,total_slot_change,mean_slot_change,median_slot_change,benefited_creators,losing_creators,unchanged_creators,newly_exposed_creators,benefited_percentage,lost_exposure_percentage
+Zero exposure,243,0,348,348,1.4320987654320987,0.0,58,0,185,58,23.868312757201647,0.0
+Low exposure (1-5),114,261,663,402,3.526315789473684,0.0,45,12,57,0,39.473684210526315,10.526315789473683
+Moderate exposure (6-20),90,1089,1035,-54,-0.6,-1.0,4,49,37,0,4.444444444444445,54.44444444444444
+High exposure (>20),58,2328,2251,-77,-1.3275862068965518,-1.0,0,38,20,0,0.0,65.51724137931035

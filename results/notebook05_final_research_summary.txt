@@ -1,0 +1,73 @@
+NOTEBOOK 05: SPOTLIGHT EXPLORATION STRATEGY
+================================================================================
+
+RESEARCH OBJECTIVE
+Evaluate interest-constrained, creator-aware exploration for redistributing
+recommendation exposure toward Emerging creators while maintaining user relevance.
+
+EXPERIMENT CONFIGURATION
+Users evaluated: 1411
+Candidate pool size: 70550 user-video pairs
+Unconstrained exploration selections: 986
+Constrained exploration swaps: 804
+Final recommendations: 14110
+
+RELEVANCE TRADE-OFF
+Mean relevance cost: 0.062723
+Median relevance cost: 0.063246
+Relevance-improving swaps: 62
+Relevance-costly swaps: 740
+Neutral swaps: 2
+
+OPPORTUNITY-TIER ANALYSIS
+Kruskal-Wallis H-statistic: 11.002470
+Kruskal-Wallis p-value: 0.00408173
+
+PAIRWISE RESULTS AFTER HOLM CORRECTION
+3-5 vs 6-10: Not statistically significant
+3-5 vs 11+: Not statistically significant after Holm correction
+6-10 vs 11+: Statistically significant (adjusted p = 0.017725)
+
+CREATOR EXPOSURE FINDINGS
+Emerging creator recommendation slots increased from 3,678 to 4,297.
+Emerging exposure share increased from 26.0666% to 30.4500%.
+Emerging creator coverage increased from approximately 51.88% to 62.77%.
+Emerging creators with zero exposure decreased from 243 to 188.
+Emerging creator exposure concentration decreased under Spotlight.
+
+RECOMMENDATION QUALITY
+Precision, Recall and NDCG showed small statistically significant declines.
+Hit Rate did not show a statistically significant decline.
+
+DIVERSITY AND NOVELTY
+Creator and category diversity metrics improved.
+Novelty increased and recommendation popularity decreased.
+These improvements were supported by the statistical analyses conducted
+earlier in Notebook 05.
+
+USER-LEVEL EFFECTS
+804 users received one recommendation swap.
+607 users retained their original recommendation list.
+619 users gained an Emerging creator recommendation.
+No user lost an Emerging creator recommendation in this experiment.
+
+RESEARCH INTERPRETATION
+Spotlight redistributes recommendation exposure toward Emerging creators,
+particularly creators with zero or low prior visibility. The intervention
+improves creator coverage, diversity and novelty while incurring a small
+relevance trade-off in Precision, Recall and NDCG.
+
+The opportunity-tier analysis additionally indicates that relevance cost
+is not uniform across opportunity tiers. The 11+ opportunity tier has
+significantly higher relevance cost than the 6-10 tier after Holm correction.
+
+LIMITATIONS
+Results are conditional on the KuaiRec sample, candidate construction,
+interest profiles, opportunity definitions, ranking model and exploration
+constraints. Creator popularity is a proxy for visibility and Emerging
+creators are defined through the study's popularity-based classification.
+This offline evaluation does not establish causal effects, long-term creator
+growth, or real-world user satisfaction.
+
+NOTEBOOK STATUS
+Notebook 05 analyses, exports and final validation completed.

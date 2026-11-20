@@ -1,0 +1,34 @@
+NOTEBOOK 05: OPPORTUNITY-TIER RELEVANCE-COST ANALYSIS
+===========================================================================
+
+OVERALL SWAP ANALYSIS
+Total constrained exploration swaps: 804
+Mean relevance cost: 0.062723
+Median relevance cost: 0.063246
+Relevance-improving swaps: 62
+Relevance-costly swaps: 740
+Neutral swaps: 2
+
+KRUSKAL-WALLIS TEST
+H-statistic: 11.002470
+p-value: 0.00408173
+
+PAIRWISE COMPARISONS WITH HOLM CORRECTION
+
+3–5 vs 6–10: raw p=0.516970, Holm-adjusted p=0.516970, significant=False
+3–5 vs 11+: raw p=0.041167, Holm-adjusted p=0.082334, significant=False
+6–10 vs 11+: raw p=0.005908, Holm-adjusted p=0.017725, significant=True
+
+SIGNIFICANT PAIRWISE DIFFERENCES
+
+6–10 vs 11+: Holm-adjusted p=0.017725
+
+INTERPRETATION
+The relevance cost of exploration differs across creator opportunity tiers.
+The Kruskal-Wallis test indicates a statistically significant overall
+difference. Pairwise testing with Holm correction identifies the specific
+tier comparisons supported by statistical evidence.
+
+These findings are conditional on the candidate pool, exploration
+selection mechanism, relevance-cost definition, and opportunity-tier
+construction used in this experiment.

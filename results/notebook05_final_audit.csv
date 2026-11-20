@@ -1,0 +1,13 @@
+check,result
+All required files exist,True
+Candidate pool contains expected users,True
+Exploration selections contain expected users,False
+Constrained selections contain expected users,False
+Final recommendations contain expected users,True
+Exactly 804 constrained swaps,True
+Exactly 10 recommendations per user,True
+No duplicate user-video recommendations,True
+All 804 opportunity records preserved,True
+All pairwise tests have adjusted p-values,True
+All relevance-cost values are valid,True
+Swap categories sum to 804,True
