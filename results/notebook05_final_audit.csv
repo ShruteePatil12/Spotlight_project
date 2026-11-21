@@ -1,8 +1,10 @@
 check,result
 All required files exist,True
 Candidate pool contains expected users,True
-Exploration selections contain expected users,False
-Constrained selections contain expected users,False
+Exploration user count matches expected eligible subset,True
+All exploration users belong to candidate pool,True
+Constrained user count matches expected swap subset,True
+All constrained users belong to exploration subset,True
 Final recommendations contain expected users,True
 Exactly 804 constrained swaps,True
 Exactly 10 recommendations per user,True

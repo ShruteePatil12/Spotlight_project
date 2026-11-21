@@ -70,4 +70,4 @@ This offline evaluation does not establish causal effects, long-term creator
 growth, or real-world user satisfaction.
 
 NOTEBOOK STATUS
-Notebook 05 analyses, exports and final validation completed.
+Notebook 05 analyses, exports and corrected final validation completed.
